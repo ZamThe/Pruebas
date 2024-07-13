@@ -1,1 +1,1 @@
-web: npm start
+web: java -jar Pruebas/src/target/aplicativo-1.0.0.jar
